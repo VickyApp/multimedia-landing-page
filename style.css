@@ -707,5 +707,19 @@ span:last-child.open-menu {
         .say-content {
             width: 100%;
         }
+        
+        .say-container {
+            max-width: 450px;
+        }
+
+        .say-content {
+            width: 100%;
+        }
+
+        .say-body {
+            flex-direction: column;
+            align-items: center;
+        }
+
 
     }
